@@ -1,9 +1,10 @@
-**Kubernetes Notes**
+#Kubernetes Notes
 
 This is repo is to save all notes and commonly commands about kubernetes
 
+##Notes
 
-**ReplicaSet vs Deployment**
+###ReplicaSet vs Deployment
 
 The function of replicaset is manage all pods with the X Label that you configure. Check if all is fine, start or stop some containers to have the exactly replicas. 
 
