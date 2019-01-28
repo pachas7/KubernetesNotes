@@ -10,7 +10,7 @@ The function of replicaset is manage all pods with the X Label that you configur
 
 About Deployment is a point of view more high which also review is the version of the image in the containers are correct.
 
-For this we always tries to create a Deployment which automatically will create a replicaset inside. 
+> For this we always tries to create a Deployment which automatically will create a replicaset inside. 
 
 ## Commands
 
