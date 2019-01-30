@@ -14,13 +14,15 @@ About Deployment is a point of view more high which also review if the version o
 
 ## Commands
 
-**This command will execute a temporally command into a pod inside the k8s cluster:
+**This command will execute a temporally command into a pod inside the k8s cluster:**
+
 ```
 kubectl run --rm -it --tty <deployment_name> --image=<image_name> <command>
 
 ```
 
-**Check all arguments that the api can receive
+**Check all arguments that the api can receive**
+
 ```
 kubectl api-resources
 ````
